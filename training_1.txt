@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 apples
 birn
+||||||| 85b5616
+apple
+birne
+=======
+milk
+birne 1
+>>>>>>> d577d6dc4152a3d7318fd27a96043aed3ed8e59e
